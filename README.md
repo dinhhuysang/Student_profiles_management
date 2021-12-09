@@ -10,9 +10,10 @@
 - Mở file src/csdl/CSDL.java: Thay đổi USERNAME và PASSWORD kết nối với MySQL phù hợp
 
 #### Chạy chương trình:
-- Màn hình đăng nhập được hiển thị
+- Màn hình đăng nhập được hiển thị.
 - Đăng nhập với tài khoản mặc định:
 ``` bash
   Tài khoản: admin
   Mật khẩu: admin
 ```
+
