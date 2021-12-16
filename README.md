@@ -1,3 +1,4 @@
+## Chi tiết nội dung của bài tập lớn ở trong [đây](https://docs.google.com/document/d/1P_MTxGhYDrGKArXBVfjRXT6cOXARYgO8/edit#)
 ## Hướng dẫn cài đặt chương trình:
 #### Yêu cầu: 
 - Cài đặt Java JDK 8 trở lên
