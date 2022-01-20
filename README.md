@@ -1,4 +1,4 @@
-## Chi tiết nội dung của bài tập lớn ở trong [đây](https://docs.google.com/document/d/1P_MTxGhYDrGKArXBVfjRXT6cOXARYgO8/edit#)
+## Chi tiết nội dung của bài tập lớn ở trong [đây](https://docs.google.com/document/d/1EPqOKEr7H8_5ex_Lp1m2VWJ_KhW-ne1o/edit?usp=sharing&ouid=100207525246341412759&rtpof=true&sd=true)
 ## Hướng dẫn cài đặt chương trình:
 #### Yêu cầu: 
 - Cài đặt Java JDK 8 trở lên
